@@ -1,0 +1,12 @@
+[
+    {
+        "Title":"Backend Developer",
+        "Description":"I'm a frontend developer with experience in building responsive and optimized sites",
+        "icon":"cursor.png"
+    },
+    {
+        "Title":"Backend Developer",
+        "Description":"I have experience developing fast and optimised back-end systems and APIs",
+        "icon":"server.png"
+    }
+]
