@@ -9,7 +9,7 @@ function App() {
  
 
   return (
-    <div className='bgcolor w-[100%] h-full overflow-x-hidden'>
+    <div className='bgcolor w-[100%] h-full overflow-x-hidden scroll-smooth'>
        <Nav />
        <Hero />
        <About />

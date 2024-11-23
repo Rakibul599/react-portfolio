@@ -17,7 +17,7 @@ function About() {
   return (
     <div className="font-roboto my-color-text relative z-20" id="about">
       <div className="bg-[#091019] h-auto w-[83%] ml-28 mt-5 pb-10 rounded-xl">
-        <h1 className="text-[25px] pt-10 pl-10">About</h1>
+        <h1 className="text-[25px] pt-10 pl-10">ABOUT</h1>
         <div className="grid grid-cols-2 mt-2 ">
           <div className="translate-y-[10%]">
             <img
@@ -33,8 +33,6 @@ function About() {
   );
 }
 function Aboutitem({ aboutitems }) {
-  console.log("Raki");
-  console.log(aboutitems.icon);
   let imgsrc;
   if (aboutitems.icon === "server.png") {
     imgsrc = servericon;
