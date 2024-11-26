@@ -1,46 +1,46 @@
 [
   {
     "title": "C Programming",
-    "imageSrc": "c.png"
+    "imageSrc": "skills/c.png"
   },
   {
     "title": "C++",
-    "imageSrc": "c++.png"
+    "imageSrc": "skills/c++.png"
   },
   {
     "title": "Java",
-    "imageSrc": "java.png"
+    "imageSrc": "skills/java.png"
   },
   {
     "title": "DSA",
-    "imageSrc": "DSA.png"
+    "imageSrc": "skills/DSA.png"
   },
   {
     "title": "HTML",
-    "imageSrc": "html.png"
+    "imageSrc": "skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "css.png"
+    "imageSrc": "skills/css.png"
   },
   {
     "title": "Javascript",
-    "imageSrc": "javascript.png"
+    "imageSrc": "skills/javascript.png"
   },
   {
     "title": "Tailwind",
-    "imageSrc": "tailwindcss.png"
+    "imageSrc": "skills/tailwindcss.png"
   },
   {
     "title": "React",
-    "imageSrc": "react.png"
+    "imageSrc": "skills/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "node.png"
+    "imageSrc": "skills/node.png"
   },
   {
     "title": "PHP",
-    "imageSrc": "php.png"
+    "imageSrc": "skills/php.png"
   }
 ]

@@ -1,17 +1,17 @@
 [
     {
-        "Title":"Backend Developer",
+        "Title":"Front-end Developer",
         "Description":"I'm a frontend developer with experience in building responsive and optimized sites",
         "icon":"cursor.png"
     },
     {
         "Title":"Backend Developer",
-        "Description":"I have experience developing fast and optimised back-end systems and APIs",
+        "Description":"I am learning backend development to enhance my skills in building efficient and scalable systems.",
         "icon":"server.png"
     },
     {
-        "Title":"Backend Developer",
-        "Description":"I have experience developing fast and optimised back-end systems and APIs",
+        "Title":"Competitive Programming",
+        "Description":"I occasionally engage in competitive programming to sharpen my problem-solving and algorithmic skills.",
         "icon":"server.png"
     }
 ]

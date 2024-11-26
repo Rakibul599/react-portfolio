@@ -15,11 +15,11 @@ function About() {
   });
 
   return (
-    <div className="font-roboto my-color-text relative z-20" id="about">
-      <div className="bg-[#091019] h-auto w-[83%] ml-28 mt-5 pb-10 rounded-xl">
+    <div className="font-roboto my-color-text w-[80%] mx-auto relative z-20" id="about">
+      <div className="bg-[#091019] h-auto  mt-5 pb-10 mb-24 rounded-xl">
         <h1 className="text-[25px] pt-10 pl-10">ABOUT</h1>
-        <div className="grid grid-cols-2 mt-2 ">
-          <div className="translate-y-[10%]">
+        <div className="grid sm:grid-cols-2 grid-cols-1 mt-2 ">
+          <div className="translate-y-[10%] hidden sm:block">
             <img
               src={laptopimg}
               alt=""
@@ -47,8 +47,7 @@ function Aboutitem({ aboutitems }) {
       <div className="w-full">
         <h1 className="font-bold text-xl">{aboutitems.Title}</h1>
         <p className="text-sm">
-          I'm a frontend developer with experience in building responsive and
-          optimized sites
+          {aboutitems.Description}
         </p>
       </div>
     </div>
