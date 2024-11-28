@@ -1,27 +1,37 @@
 [
     {
         "images":"projects/react-portfolio.png",
-        "title":"E-Commerce Web Application",
-        "skills":["HTML","CSS","Javascript","React Js"]
+        "title":"My Portfolio",
+        "skills":["HTML","CSS","Javascript","React Js"],
+        "gitsource":"https://github.com/Rakibul599/react-portfolio",
+        "gitpage":"https://rakibul599.github.io/react-portfolio/"
     },
     {
         "images":"projects/ecomerce.png",
         "title":"E-Commerce Web Application",
-        "skills":["HTML","CSS","Javascript","React Js"]
+        "skills":["HTML","CSS","Javascript","React Js"],
+        "gitsource":"https://github.com/Rakibul599/ecommerce-website",
+        "gitpage":"https://rakibul599.github.io/ecommerce-website/"
     },
     {
         "images":"projects/Weather.png",
         "title":"Weather Application",
-        "skills":["HTML","CSS","Javascript","React Js"]
+        "skills":["HTML","CSS","Javascript","React Js"],
+        "gitsource":"https://github.com/Rakibul599/weather-app",
+        "gitpage":"https://rakibul599.github.io/weather-app/"
     },
     {
         "images":"projects/random-password.png",
         "title":"Random Password Generator",
-        "skills":["HTML","CSS","Javascript","React Js"]
+        "skills":["HTML","CSS","Javascript","React Js"],
+        "gitsource":"https://github.com/Rakibul599/Random-Password-generator",
+        "gitpage":"https://rakibul599.github.io/Random-Password-generator/"
     },
     {
         "images":"projects/todo.png",
         "title":"ToDo List Application",
-        "skills":["HTML","CSS","Javascript","React Js"]
+        "skills":["HTML","CSS","Javascript","React Js"],
+        "gitsource":"https://github.com/Rakibul599/todo-app",
+        "gitpage":"https://rakibul599.github.io/todo-app/"
     }
 ]

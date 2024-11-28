@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div className="w-full bg-[#19376d]">
       <div className="font-roboto my-color-text w-[90%] sm:w-[80%] pt-11 pb-11 mx-auto">
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2  gap-8">
           {/* Left Section */}
           <div>
             <h1 className="sm:text-[50px] text-[60px] font-bold text-center sm:text-start">Contact</h1>
@@ -27,7 +27,7 @@ function Contact() {
               <p className="break-words w-[90%]">
                 <a
                   href="mailto:rakibulalam59900@gmail.com"
-                  className="place-content-center text-[20px] sm:text-[16px] break-words"
+                  className="place-content-center text-[15px] sm:text-[16px] break-words"
                 >
                   rakibulalam59900@gmail.com
                 </a>
@@ -45,7 +45,7 @@ function Contact() {
                   href="https://www.linkedin.com/in/rakibul-alam-b00b231b6/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="place-content-center text-[20px] sm:text-[16px] break-words"
+                  className="place-content-center text-[15px] sm:text-[16px] break-words"
                 >
                   https://www.linkedin.com/
                 </a>
@@ -63,7 +63,7 @@ function Contact() {
                   href="https://github.com/Rakibul599"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="place-content-center text-[20px] sm:text-[16px] break-words"
+                  className="place-content-center text-[15px] sm:text-[16px] break-words"
                 >
                   https://github.com/Rakibul599
                 </a>

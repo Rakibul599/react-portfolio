@@ -42,8 +42,8 @@ function ProjectCard({pritems}){
                   
                 </div>
                 <div className='grid grid-cols-2 gap-12 mt-5'>
-                    <button className='#576cbc text-xl bg-[#576cbc] w-20 rounded-2xl'>Demo</button>
-                    <button className='#576cbc text-xl bg-[#576cbc] w-20 rounded-2xl'>Source</button>
+                    <button className='#576cbc text-xl bg-[#576cbc] w-20 rounded-2xl'><a target="_blank" href={pritems.gitpage}>Demo</a></button>
+                    <button className='#576cbc text-xl bg-[#576cbc] w-20 rounded-2xl'><a target="_blank" href={pritems.gitsource}>Source</a></button>
                 </div>
             </div>
     )
