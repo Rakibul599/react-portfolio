@@ -27,8 +27,9 @@ function Hero() {
             technologies to build complete, robust applications.Reach out if you'd like to
             learn more!
           </p>
-          <button className="bg-[#576cbc] text-[16px] p-2 rounded-3xl">
-            Contact Me
+          <button className="bg-[#576cbc] text-[16px] p-2 w-24 rounded-3xl">
+            <a href="https://drive.google.com/file/d/1UhdpmMAHfQCH6GIROH8jtbp535uTnMNZ/view?usp=sharing"  target="_blank">Resume</a>
+           
           </button>
         </div>
         <div className="flex place-content-center w-full">
