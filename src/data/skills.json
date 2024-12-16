@@ -42,5 +42,9 @@
   {
     "title": "PHP",
     "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
   }
 ]
