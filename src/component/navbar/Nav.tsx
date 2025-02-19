@@ -23,7 +23,7 @@ function Nav() {
           <a href="#projects">Projects</a>
         </li>
         <li>
-          <a href="">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
       <button className="absolute right-0 top-8 sm:hidden" onClick={()=>setMenustutus(!menuStutus)}>

@@ -4,7 +4,7 @@ import { getUrlimg } from '../../utils/Geturlimg';
 function Contact() {
   return (
     <div className="w-full bg-[#19376d]">
-      <div className="font-roboto my-color-text w-[90%] sm:w-[80%] pt-11 pb-11 mx-auto">
+      <div className="font-roboto my-color-text w-[90%] sm:w-[80%] pt-11 pb-11 mx-auto " id='contact'>
         <div className="grid grid-cols-1 sm:grid-cols-2  gap-8">
           {/* Left Section */}
           <div>
