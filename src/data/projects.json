@@ -1,5 +1,19 @@
 [
     {
+        "images":"projects/kothaHobe.png",
+        "title":"KothaHobe App(Chatting Application)",
+        "skills":["HTML","CSS","Javascript","Typescript","React Js","Node js","Express js","MongoDB"],
+        "gitsource":"https://github.com/Rakibul599/kothaHobe-app",
+        "gitpage":"https://kotha-hobe-app.vercel.app/"
+    },
+    {
+        "images":"projects/attendance.png",
+        "title":"Auto attendance system with AI",
+        "skills":["HTML","CSS","Javascript","React Js","Python","Flask","SQL"],
+        "gitsource":"https://github.com/Rakibul599/auto-attendence-system-AI",
+        "gitpage":"https://github.com/Rakibul599/auto-attendence-system-AI"
+    },
+    {
         "images":"projects/react-portfolio.png",
         "title":"My Portfolio",
         "skills":["HTML","CSS","Javascript","React Js"],

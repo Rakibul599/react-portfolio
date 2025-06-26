@@ -12,6 +12,10 @@
     "imageSrc": "skills/java.png"
   },
   {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
     "title": "DSA",
     "imageSrc": "skills/DSA.png"
   },
@@ -28,20 +32,28 @@
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "Tailwind",
+    "title": "Tailwind CSS",
     "imageSrc": "skills/tailwindcss.png"
   },
   {
-    "title": "React",
+    "title": "React js",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node js",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express js",
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "PHP",
     "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "MySql",
