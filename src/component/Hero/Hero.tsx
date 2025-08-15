@@ -13,25 +13,26 @@ function Hero() {
         <div className="order-last sm:order-first w-full">
           <h1 className="text-[35px] pb-5">Hi,I'm Rakibul Alam</h1>
           <p className="w-[100%] text-[16px] pb-2 leading-relaxed z-[3]">
-            I'm a MERN Stack Developer with a passion for crafting dynamic and
-            responsive web applications. I specialize in building seamless user
-            experiences using modern frameworks and tools, ensuring a perfect
-            balance between design and functionality.
+            I'm a Full Stack Developer dedicated to designing and delivering
+            dynamic, high-performance web applications. My expertise spans
+            modern frameworks and technologies, enabling me to create seamless,
+            responsive, and visually appealing user experiences that align
+            perfectly with business goals.
           </p>
           <p className="w-[100%] text-[16px] pb-2 leading-relaxed z-[3]">
-            Beyond development, I engage in Competitive Programming to sharpen
-            my problem-solving skills and deepen my understanding of algorithms
-            and data structures.
+            Outside of development, I actively participate in Competitive
+            Programming to strengthen my problem-solving abilities and refine my
+            understanding of algorithms and data structures.
           </p>
-          
           <p className="w-[100%] text-[16px] pb-8 leading-relaxed z-[3]">
-            With expertise in both front-end and back-end technologies, I strive
-            to build complete, scalable, and efficient applications. Feel free
-            to reach out!
+            With strong proficiency in both front-end and back-end development,
+            I build scalable, maintainable, and efficient applications. I’m
+            always eager to collaborate on challenging projects that push the
+            boundaries of innovation.
           </p>
           <button className="bg-[#576cbc] text-[16px] p-2 w-24 rounded-3xl">
             <a
-              href="https://drive.google.com/file/d/19Zo0axkuUGd1orbW8MTUWmGAp7cA9S4w/view?usp=sharing"
+              href="https://drive.google.com/file/d/1McvNSzthAnq0tri78geYI9jLVqYcGgi2/view?usp=sharing"
               target="_blank"
             >
               Resume
