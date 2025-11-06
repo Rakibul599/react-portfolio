@@ -32,7 +32,7 @@ function Hero() {
           </p>
           <button className="bg-[#576cbc] text-[16px] p-2 w-24 rounded-3xl">
             <a
-              href="https://drive.google.com/file/d/1CZn6Rzjf5f-Wd5qZ_HwAwhowgTknFF95/view?usp=sharing"
+              href="https://drive.google.com/file/d/16forT4yk_ICN3e9WAOzYMZWeg_amGoZA/view?usp=sharing"
               target="_blank"
             >
               Resume
