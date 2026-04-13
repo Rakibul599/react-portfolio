@@ -38,7 +38,7 @@
 #           local-dir: dist/
 #           server-dir: /rakibulalam.pro.bd/
 
-name: Deploy to Hostseba
+name: Deploy Hostseba
 
 on:
   push:
