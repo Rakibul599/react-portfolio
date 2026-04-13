@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rakibul599.github.io/react-portfolio/",
+  "homepage": ".",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -34,3 +34,4 @@
     "vite": "^5.4.10"
   }
 }
+
